@@ -29,7 +29,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 executing==0.8.3
 fastjsonschema==2.16.2
-Flask==2.2.2
+Flask==2.2.5
 fonttools==4.25.0
 idna==3.4
 ipykernel==6.17.1
